@@ -1,0 +1,147 @@
+body {
+    background-image: url("https://i.imgur.com/jkEuLi7.jpg");
+    background-size: cover;
+}
+#kast-logo{
+    width:5px;
+    height:5px;
+
+}
+
+h2 {
+    height:20px;
+    color:white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:530px;
+    margin-left: 410px;
+    line-height: 40px;
+    text-indent: 3px;
+}
+nav ul{
+    list-style-type: none;
+    text-align: end;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    flex-flow: row nowrap;
+    font-size: 18px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+nav li {
+    flex:1;
+}
+
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 100px;
+
+}
+
+h1 {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 48px;
+    margin-left: 390px;
+    margin-bottom:38px;
+    
+}
+
+
+
+.bottom {
+    width: 1340px;
+    height:700px;
+    margin-top:100px;
+    margin-left:-1px;
+    
+}
+
+h4{
+    width: 200px;
+    height: 50px;
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    margin:auto;
+    margin-top:-630px
+}
+
+.wired-logo {
+    width: 200px;
+    height:74px;
+    margin-left: 200px;
+    margin-top:50px;
+}
+
+.nerdist-logo {
+    width: 200px;
+    height:74px;
+    margin-left: 150px;
+    margin-top:50px;
+}
+
+.yahoo-finance-logo {
+    width:200px;
+    height:74px;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+
+.evening-standard-logo{
+    width:200px;
+    height: 74px;
+    margin-left:200px;
+    margin-top: 100px;
+}
+
+.bbc-logo {
+    width:200px;
+    height: 74px;
+    margin-left: 150px;
+}
+
+.daily-mail-logo {
+    width:200px;
+    height:74px;
+    margin-left: 170px;
+}
+
+h5{
+    width:800px;
+    height:20px;
+    color:gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    margin:auto;
+    margin-top: 100px;
+}
+h6 {
+    width:150px;
+    height:20px;
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    margin-left:900px;
+}
+
+h3{
+
+    width:200px;
+    height:45px;
+    color:white;
+    background-color:orange;
+    border-color:orange;
+    border-radius:5px;
+    margin-left:550px;
+    margin-top:100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    text-align:center;
+    line-height:40px;
+
+}
